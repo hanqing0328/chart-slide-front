@@ -4,7 +4,7 @@
 
 
 ## UI
-![最终效果图](/ui.png)
+![最终效果图](./src/ui.png)
 
 ## Available Scripts
 
